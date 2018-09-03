@@ -1,0 +1,112 @@
+.jumbotron {
+  padding: 20rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0;
+  background-image: url(../img/AssPI.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.display-3 {
+  padding: 25px 100px;
+  color: #D03441;
+  font-size: 4.5rem;
+  font-weight: 0;
+  line-height: 1.2;
+  text-align: center;
+  background-color: #F8F9FA;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.btn btn-secondary {
+  color: green;
+}
+
+.col-md-4 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+  text-align: center;
+}
+
+.card-header {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: #2C6637;
+  border-bottom: 1px solid #2C6637;
+}
+
+.grid {
+  width: 960px;
+  height: 1550px;
+  display: grid;
+  grid-template-columns: 320px 320px 320px;
+  grid-template-rows: 150px 150px 150px 150px 150px 150px 150px 150px 150px 150px;
+}
+
+.box {
+  color: black;
+  border-radius: 0px;
+  border: 1px black solid;
+  font-weight: bold;
+  font-size: 16px;
+  background-color: #FFFFF0;
+}
+
+.subscribe-name-verdefome{
+  color: white;
+}
+
+.btn-bruna{
+  background-color: #ff5a00
+}
+
+.fundo {
+  background-image: url(../img/pratos.png);
+  width: 1078px;
+  height: 604px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+btn-outline-secondary {
+  color: #6c757d;
+  background-color: transparent;
+  background-image: none;
+  border-color: #6c757d;
+}
+
+.centralizar {
+  text-align: center;
+}
+
+.card-body {
+  background-color: #F0FFF0;
+}
+
+.btn-block {
+  width: 300px;
+}
+
+.descrição {
+  font-weight: normal;
+  font-size: 17px;
+}
+
+.rodapé {
+  background-color: #fff;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  color: #000;
+}
+
+.btn1 {
+    text-align: center!important;
+}
